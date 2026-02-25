@@ -21,7 +21,7 @@
     <img align="center" src="https://leetcard.jacoblin.cool/shauryagupta118?theme=catppuccinMocha" alt="pypimo's leetcode stats" height="200" />
   </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebyshaurya&show_icons=true&locale=en&layout=compact" alt="codebyshaurya" /></p>
+<p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codebyshaurya&hide_border=true&short_numbers=true)](https://git.io/streak-stats)</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebyshaurya&show_icons=true&locale=en" alt="codebyshaurya" /></p>
 
